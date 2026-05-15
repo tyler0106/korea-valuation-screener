@@ -1,0 +1,25 @@
+# API 키 및 환경변수
+.env
+*.env
+secrets.json
+
+# 실행 결과 파일 (선택적으로 제외)
+screened_final.csv
+01_distribution.png
+02_screened_top20.png
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
